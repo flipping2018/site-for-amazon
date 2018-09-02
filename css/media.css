@@ -1,0 +1,432 @@
+@media only screen and (max-width : 1199px) {
+	.s_trigers .item h4{
+		font-size: 16px;
+	}
+	.s_grafics .item .content{
+		margin-top: 40px;
+	}
+	.s_grafics .item .img{
+		max-width: 535px;
+	}
+	.s_grafics .bg_img{
+		margin-left: -650px;
+	}
+	.s_price .curs{
+		padding: 40px 30px;
+	}
+	.s_free .item{
+		max-width: 220px;
+	}
+	.s_free .item .img{
+		line-height: 120px;
+	}
+	.s_free .item .img img{
+		max-height: 125px;
+	}
+	.s_social .bg_img{
+		margin-left: 100px;
+	}
+	.s_pdf{
+		padding-top: 50px;
+	}
+	.s_pdf .img img{
+		max-width: 500px;
+	}
+	.s_pdf .text{
+		padding-top: 50px;
+	}
+	.s_pdf .price_circle{
+		left: 30px;
+		width: 150px;
+		height: 150px;
+	}
+	.s_pdf .price_circle .price_old{
+		font-size: 24px;
+	}
+	.s_pdf .price_circle .price{
+		font-size: 50px;
+	}
+}
+@media only screen and (max-width : 991px) {
+	.s_models,
+	.s_training{
+		background-color: #f6f8f9;
+	}
+	.s_models::before,
+	.s_training::before{
+		display: none;
+	}
+	.s_trigers .items{
+		display: block;
+	}
+	.s_trigers .item{
+		max-width: 200px;
+	}
+	.s_trigers .item .icon{
+		margin-bottom: 10px;
+	}
+	.s_video .video_wrap{
+		margin-top: 40px;
+	}
+	.s_video .video_wrap .label{
+		left: 40px;
+		font-size: 20px;
+	}
+	.s_grafics .item .img{
+		max-width: 407px;
+	}
+	.s_grafics .item h3{
+		padding-bottom: 75px;
+	}
+	.s_grafics .item .label{
+		max-width: 330px;
+		margin-left: auto;
+		margin-right: auto;
+		min-height: 75px;
+	}
+	.s_grafics .bg_img{
+		margin-left: -570px;
+	}
+	.s_grafics .bg_img img{
+		max-width: 450px;
+	}
+	.s_info ul{
+		padding-left: 50px;
+	}
+	.s_coach .bg{
+		padding-top: 100px;
+		padding-bottom: 210px;
+	}
+	.s_coach .facts{
+		display: block;
+		padding: 10px 0 15px;
+	}
+	.s_coach .fact{
+		max-width: 230px;
+	}
+	.s_info{
+	}
+	.s_info ul{
+		padding: 30px;
+	}
+	.s_info li{
+		margin: 5px 0;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+	.s_training .item .img{
+		box-shadow: 0 10px 27px 3px rgba(24, 26, 52, 0.06);
+	}
+	.s_price .text{
+	}
+	.s_review .wrap .title{
+		margin-bottom: -25px;
+	}
+	.s_review .item{
+		margin-top: 35px;
+	}
+	.s_review .carousel{
+		margin-top: 80px;
+	}
+	.s_free.pt60{
+		padding-top: 40px;
+	}
+	.s_free .logo{
+		margin-bottom: 50px;
+	}
+	.s_free .title{
+		margin-bottom: 0;
+	}
+	.s_free .items{
+		display: block;
+	}
+	.s_free .item{
+		margin-top: 30px;
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+	.s_social .bg_img{
+		margin-left: 150px;
+	}
+	.s_social .bg_img img{
+		max-width: 400px;
+	}
+	.s_lesson .item li{
+		font-size: 16px;
+	}
+	.s_pdf .img{
+		max-width: 400px;
+	}
+	.s_pdf .img img{
+		max-width: 100%;
+	}
+	.s_pdf .price_circle{
+		left: 20px;
+		width: 110px;
+		height: 110px;
+	}
+	.s_pdf .price_circle .price_old{
+		font-size: 21px;
+	}
+	.s_pdf .price_circle .price{
+		font-size: 40px;
+	}
+	.s_pdf .text{
+		padding-top: 20px;
+	}
+}
+@media only screen and (max-width : 767px) {
+	.s_models .tab_wrap{
+		margin-top: 30px;
+	}
+	.s_models .tab_wrap .tabs{
+		margin: 10px 0 0;
+	}
+	.s_grafics .item h2{
+		text-align: left;
+	}
+	.s_grafics .item .content{
+		display: block;
+	}
+	.s_grafics .item .img{
+		display: inline-block;
+		margin: 0 !important;
+	}
+	.s_grafics .item .label{
+		font-size: 12px;
+		min-height: 1px;
+	}
+	.s_grafics .item h3{
+		padding-bottom: 0;
+		margin-top: 20px;
+	}
+	.s_grafics .item:nth-child(2n) h3{
+		margin-left: 0;
+	}
+	.s_grafics{
+		padding-bottom: 320px;
+	}
+	.s_grafics .info{
+		margin-top: 60px;
+	}
+	.s_grafics .bg_img{
+		left: 0;
+		right: 0;
+		text-align: center;
+		margin: 0;
+	}
+	.s_grafics .bg_img img{
+		max-height: 300px;
+	}
+	.s_coach .bg{
+		padding-top: 80px;
+		padding-bottom: 90px;
+	}
+	.s_coach .content{
+		padding-right: 110px;
+	}
+	.s_coach .content p{
+		margin-top: 10px;
+		font-size: 15px;
+	}
+	.s_coach .bg_img{
+		left: auto;
+		right: -215px;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.s_coach .bg_img img{
+		max-width: 350px;
+	}
+	.s_coach .facts{
+		margin-top: -20px;
+	}
+	.s_advantages .items{
+		margin-top: 0;
+	}
+	.s_advantages .item.max ul{
+		max-width: 100%;
+	}
+	.s_info .wrap{
+		display: block;
+	}
+	.s_info ul{
+		max-width: 100%;
+		box-shadow: 0 10px 27px 3px rgba(24, 26, 52, 0.08);
+		padding: 20px;
+	}
+	.s_info li{
+		margin: 10px 0;
+	}
+	.s_info h3{
+		max-width: 100%;
+		margin: 25px 0 0;
+	}
+	.s_training .items{
+		margin-top: 0;
+	}
+	.s_training .item .img{
+		margin-bottom: 15px;
+	}
+	.s_free.pt60{
+		padding-top: 20px;
+	}
+	.s_free .logo{
+		margin-bottom: 40px;
+	}
+	.s_price .wrap{
+		display: block;
+	}
+	.s_price .text p{
+		margin-top: 15px;
+	}
+	.s_price .text .info{
+		margin-top: 30px;
+	}
+	.s_price .curs{
+		margin: 30px auto 0;
+		border-width: 7px;
+		padding: 30px 25px;
+	}
+	.s_price .curs .radios{
+		display: inline-block;
+		margin: 10px 11px 20px;
+	}
+	.s_review .wrap,
+	.s_free .wrap{
+		margin-top: 35px;
+	}
+	.s_review .carousel{
+		margin-top: 50px;
+	}
+	.s_social{
+		padding-bottom: 290px;
+		text-align: center;
+	}
+	.s_social .content h3{
+		max-width: 100%;
+	}
+	.s_social .content .btn_wrap{
+		display: inline-block;
+		max-width: 350px;
+	}
+	.s_social .content .btn{
+		margin-right: 0;
+	}
+	.s_social .content .link{
+		margin-top: 10px;
+	}
+	.s_social .bg_img{
+		left: 0;
+		right: 0;
+		text-align: center;
+		margin: 0;
+	}
+	.s_social .bg_img img{
+		max-height: 300px;
+	}
+	.s_lesson .item > .flex{
+		display: block;
+	}
+	.s_lesson .item .img,
+	.s_lesson .item .text{
+		max-width: 500px;
+	}
+	.s_lesson .item .text{
+		margin: 20px auto 0;
+	}
+	.s_pdf .price_circle{
+		width: 80px;
+		height: 80px;
+		left: 30px;
+	}
+	.s_pdf .price_circle .price_old{
+		font-size: 18px;
+	}
+	.s_pdf .price_circle .price{
+		font-size: 32px;
+	}
+	.s_pdf .img,
+	.s_pdf .text{
+		max-width: 500px;
+		margin: 0 auto;
+	}
+	.s_pdf .img img{
+		max-width: 300px;
+	}
+	footer{
+		padding: 30px 0;
+	}
+	footer .wrap{
+		display: block;
+		text-align: center;
+	}
+	footer .logo,
+	footer .development{
+		text-align: center;
+	}
+	footer .logo{
+		margin: 0 auto;
+	}
+	footer .wrap > *{
+		width: 100%;
+	}
+	footer .info{
+		margin: 30px 0;
+	}
+}
+@media only screen and (max-width : 480px) {
+	.s_video .video_wrap .label{
+		left: 20px;
+		bottom: 10px;
+		font-size: 17px;
+	}
+	.s_coach .bg{
+		padding-top: 60px;
+		padding-bottom: 400px;
+	}
+	.s_coach .content{
+		padding: 0;
+	}
+	.s_coach .bg_img{
+		left: 0;
+		right: 0;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.s_coach .bg_img img{
+		max-width: 200px;
+	}
+	.s_coach .facts{
+		margin-top: -60px;
+	}
+	.s_free .item{
+		max-width: 300px;
+	}
+	.s_free .item .img img{
+		max-height: 100%;
+	}
+	.s_models .item .number{
+		font-size: 235px;
+	}
+	.s_advantages .item li .icon{
+		margin-right: 15px;
+	}
+	.s_grafics .item .label .block{
+		display: inline-block;
+	}
+}
+@media only screen and (max-width : 320px) {
+
+}
+@media only screen and (min-width : 768px) {
+
+}
+@media only screen and (min-width : 992px) {
+
+}
+@media only screen and (min-width : 1220px) {
+	.container{
+		width: 1200px;
+	}
+}
