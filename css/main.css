@@ -417,7 +417,7 @@
 }
 .s_info ul{
 	width: 100%;
-	max-width: 600px;
+	/* max-width: 600px; */
 	padding: 45px 50px 40px 70px;
 	background-color: white;
 	box-shadow: 0 20px 54px 6px rgba(24, 26, 52, 0.08);
